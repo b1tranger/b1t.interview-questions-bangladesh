@@ -254,7 +254,7 @@ The list is a filtered, modified version of [Viraptor/Reverse Interview](https:/
 
 <!-- START OF SECTION: companies/aastha.md -->
 
-# Astha IT
+# Astha IT - - - - -
 
 ## Introduction
 
@@ -314,7 +314,7 @@ Astha IT is a software development company based in Dhaka, Bangladesh, providing
 
 <!-- START OF SECTION: companies/appifylab.md -->
 
-# AppifyLab Ltd
+# AppifyLab Ltd - - - - -
 
 |                   |                                            |
 | :---------------- | :----------------------------------------- |
@@ -421,7 +421,7 @@ The given questions are the summarized version of the original questions. The or
 
 <!-- START OF SECTION: companies/appscode.md -->
 
-# Appscode Limited
+# Appscode Limited - - - - -
 
 |                   |                       |
 | :---------------- | :-------------------- |
@@ -492,7 +492,7 @@ Questions from the written exam took place on May 1, 2025
 
 <!-- START OF SECTION: companies/bkash.md -->
 
-# Bkash
+# Bkash - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :--------------------------- | :--------------------------- |
@@ -590,7 +590,7 @@ Stage	Format	Description
 
 <!-- START OF SECTION: companies/chaldal.md -->
 
-# Chaldal
+# Chaldal - - - - -
 
 |  |  |
 | :-| :- |
@@ -724,7 +724,7 @@ Chaldal interview process has 3 stage
 
 <!-- START OF SECTION: companies/bevycommerce.md -->
 
-# Bevy Commerce
+# Bevy Commerce - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -768,7 +768,7 @@ The interview process was based on two stages
 
 <!-- START OF SECTION: companies/bs23.md -->
 
-# Brain Station 23
+# Brain Station 23 - - - - -
 
 |  |  |
 | :-| :- |
@@ -1116,7 +1116,7 @@ This round is also language and stack specific. The language is chosen by the ca
 
 <!-- START OF SECTION: companies/dsi.md -->
 
-# DSI
+# DSI - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -1179,6 +1179,8 @@ The second stage is face to face interview
 
 
 <!-- START OF SECTION: companies/envobyte.md -->
+
+# Envobyte - - - - -
 
 |  |  |
 | :-| :- |
@@ -1337,7 +1339,7 @@ Enosis is a software development company based in Bangladesh, specializing in we
 
 <!-- START OF SECTION: companies/exabyting.md -->
 
-# Exabyting
+# Exabyting - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -1550,7 +1552,7 @@ They often give job advertisements on LinkedIn. We have to apply using the Googl
 
 <!-- START OF SECTION: companies/fringecore.md -->
 
-# Fringecore
+# Fringecore - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -1632,7 +1634,7 @@ They often give job advertisements on LinkedIn. We have to apply using the Googl
 
 <!-- START OF SECTION: companies/inverseai.md -->
 
-# Inverse.Ai
+# Inverse.Ai - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -1686,7 +1688,7 @@ There are 3 stages for the interview
 
 <!-- START OF SECTION: companies/iqvia.md -->
 
-# IQVIA
+# IQVIA - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -1793,7 +1795,7 @@ Then if selected there will be a technical interview.
 
 <!-- START OF SECTION: companies/priyo.md -->
 
-# Priyo sys
+# Priyo sys - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -1844,7 +1846,7 @@ Priyo takes 2 interview.
 
 <!-- START OF SECTION: companies/kite.md -->
 
-# Kite Games Studio
+# Kite Games Studio - - - - -
 
 |  | |
 | :-| :- |
@@ -1973,7 +1975,7 @@ Priyo takes 2 interview.
 
 <!-- START OF SECTION: companies/optimizely.md -->
 
-# Optimizely Bangladesh
+# Optimizely Bangladesh - - - - -
 
 |  |  |
 | :-| :- |
@@ -2031,7 +2033,7 @@ Optimizely is a certified Great Place to Work. Here are some of the benefits and
 
 <!-- START OF SECTION: companies/pathao.md -->
 
-# Pathao
+# Pathao - - - - -
 
 |                   |                                     |
 | :---------------- | :---------------------------------- |
@@ -2076,7 +2078,7 @@ In this round they asked about how the on-site assessment was done. How difficul
 
 <!-- START OF SECTION: companies/relisource.md -->
 
-# Relisource
+# Relisource - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -2123,7 +2125,7 @@ For the Junior .NET Developer Position at first there was a 1 hour long written 
 
 <!-- START OF SECTION: companies/robendevs.md -->
 
-# RoBenDevs
+# RoBenDevs - - - - -
 
 |  |  |
 | :-| :- |
@@ -2180,7 +2182,7 @@ RoBenDevs has a 3 stage interview process for Software Engineer, Intern role.
 
 <!-- START OF SECTION: companies/rokomari.md -->
 
-# Rokomari
+# Rokomari - - - - -
 
 |                 |                          |
 | :-------------- | :----------------------- |
@@ -2240,7 +2242,7 @@ In this article, the questions of recruitment test for Backend Developer role at
 
 <!-- START OF SECTION: companies/shanghaibdcom.md -->
 
-# Shanghai Baud Data Communication Co. Ltd.
+# Shanghai Baud Data Communication Co. Ltd. - - - - -
 
 |                 |                      |
 | :-------------- | :------------------- |
@@ -2348,7 +2350,7 @@ In this article, the questions of recruitment test for Backend Developer role at
 
 <!-- START OF SECTION: companies/shellbeehaken.md -->
 
-# ShellBeeHaken Limited
+# ShellBeeHaken Limited - - - - -
 
 |                   |                                   |
 | :---------------- | :-------------------------------- |
@@ -2423,7 +2425,7 @@ Questions from the written exam took place on 12 September 2025
 
 <!-- START OF SECTION: companies/shopup.md -->
 
-# ShopUp
+# ShopUp - - - - -
 
 |                   |                               |
 | :---------------- | :---------------------------- |
@@ -2504,7 +2506,7 @@ very challenging—comparable to the "Hard" category on HackerRank.
 
 <!-- START OF SECTION: companies/revesystems.md -->
 
-# REVE Systems
+# REVE Systems - - - - -
 
 |  | |
 | :-| :- |
@@ -2630,7 +2632,7 @@ In this article, the recruitment process for the R&D department for the DEV role
 
 <!-- START OF SECTION: companies/spectrum.md -->
 
-# Spectrum
+# Spectrum - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -2671,7 +2673,7 @@ Spectrum Engineering Consortium Ltd. specializes in IP/DWDM/SDH Network infrastr
 
 <!-- START OF SECTION: companies/srbd.md -->
 
-# SRBD
+# SRBD - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -2746,7 +2748,7 @@ SRBD takes interview in two round.
 
 <!-- START OF SECTION: companies/synesis.md -->
 
-# Synesis IT
+# Synesis IT - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -2782,7 +2784,7 @@ The second stage is face to face interview
 
 <!-- START OF SECTION: companies/therap/index.md -->
 
-# Therap
+# Therap - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1">       |
 | :--------------------------- | :--------------------------------- |
@@ -3276,7 +3278,7 @@ This part was taken online. Both Bangladesh and USA team were presents. This rou
 
 <!-- START OF SECTION: companies/wsd.md -->
 
-# WSD
+# WSD - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -3352,7 +3354,7 @@ They take their interview in two phases.
 
 <!-- START OF SECTION: companies/wedevs.md -->
 
-# weDevs
+# weDevs - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
@@ -3399,7 +3401,7 @@ Their interview process consists of three stages. The first two stages vary from
 
 <!-- START OF SECTION: companies/welldev.md -->
 
-# WellDev Ltd
+# WellDev Ltd - - - - -
 
 | <img width="441" height="1"> | <img width="441" height="1"> |
 | :-| :- |
