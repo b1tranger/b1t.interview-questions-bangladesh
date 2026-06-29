@@ -1,4 +1,4 @@
-[source](https://tamimehsan.github.io/interview-questions-bangladesh/) | [gemini](https://share.gemini.google/8rmDNZ6L75m2) | [PDF](https://drive.google.com/open?id=1dknvGXTcdoNdDkpRqXi1boKFSVPD7jgV&usp=drive_fs) | [reader](https://tinyurl.com/4vk2nnj)
+[source](https://tamimehsan.github.io/interview-questions-bangladesh/) | [gemini](https://share.gemini.google/8rmDNZ6L75m2) | [PDF](https://drive.google.com/open?id=1dknvGXTcdoNdDkpRqXi1boKFSVPD7jgV&usp=drive_fs) | [reader](https://tinyurl.com/4vk2nnja)
 
 <!-- START OF SECTION: companies/general.md -->
 
